@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SVM | Abheesht Sharma</title>
+    <link>https://abheesht17.github.io/tag/svm/</link>
+      <atom:link href="https://abheesht17.github.io/tag/svm/index.xml" rel="self" type="application/rss+xml" />
+    <description>SVM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abheesht17.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SVM</title>
+      <link>https://abheesht17.github.io/tag/svm/</link>
+    </image>
+    
+    <item>
+      <title>SVM Kernel Analysis</title>
+      <link>https://abheesht17.github.io/project/svm/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/project/svm/</guid>
+      <description>&lt;p&gt;The aim of this project is to predict the direction of stocks (upwards/downwards) depending on customisable horizon spanning over the last few days/months. The choice of classifier was Support Vector Machine (SVM). We analysed the impact of different kernels (with different degrees) and tried to find out which kernel is specifically suited for Economics datasets. This work was done under the supervision of Dr. Snehanshu Saha.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

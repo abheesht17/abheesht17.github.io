@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adversarial ML | Abheesht Sharma</title>
+    <link>https://abheesht17.github.io/tag/adversarial-ml/</link>
+      <atom:link href="https://abheesht17.github.io/tag/adversarial-ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adversarial ML</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abheesht17.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Adversarial ML</title>
+      <link>https://abheesht17.github.io/tag/adversarial-ml/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Deep Learning Book</title>
+      <link>https://abheesht17.github.io/project/adl/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/project/adl/</guid>
+      <description>&lt;p&gt;Despite the great success of deep neural networks in a wide range of applications, they have been repeatedly shown to be vulnerable to adversarial attacks. Adversarial Deep Learning is a book being written by Dr. Di Jin, Dr. Yifang Yin, Yaman Kumar, and Dr. Rajiv Ratn Shah, which gives the reader an introduction to the progress made in this field. At code-soup, we are building the codebase of these algorithms in a clean, simple and minimal manner . We strive to give the reader a smooth experience while reading the book and understanding the code in parallel with a minimal set of dependencies and library. The website we are creating allows for easy access with comprehensive tutorials to enhance the reading experience in the book.
+Code Fencing allows the user to interact with algorithms on the website to get a hands-on experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DecepticoNLP</title>
+      <link>https://abheesht17.github.io/project/decepticonlp/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/project/decepticonlp/</guid>
+      <description>&lt;p&gt;DecepticoNLP is a Python Library for Robustness Monitoring and Adversarial Debugging of NLP models. It provides a framework for character-level and word-level perturbation, targeted and untargeted attacks, etc. This project is currently on hold.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

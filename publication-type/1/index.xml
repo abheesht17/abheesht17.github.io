@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Abheesht Sharma</title>
+    <link>https://abheesht17.github.io/publication-type/1/</link>
+      <atom:link href="https://abheesht17.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abheesht17.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://abheesht17.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://abheesht17.github.io/publication/iclr_hf/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/iclr_hf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature</title>
+      <link>https://abheesht17.github.io/publication/drift/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/drift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Reading Comprehension with Abstract Words using Augmentation, Linguistic Features and Voting</title>
+      <link>https://abheesht17.github.io/publication/recam/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/recam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxic Spans Detection Leveraging BERT-based Token Classification and Span Prediction Techniques</title>
+      <link>https://abheesht17.github.io/publication/toxic_span/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/toxic_span/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Ranking with XLNet-Based Models</title>
+      <link>https://abheesht17.github.io/publication/spotify/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel 3D-Unet Deep Learning Framework Based on High-Dimensional Bilateral Grid for Edge Consistent Single Image Depth Estimation</title>
+      <link>https://abheesht17.github.io/publication/ic3d/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/ic3d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
