@@ -5,12 +5,20 @@
     <link>https://abheesht17.github.io/publication-type/1/</link>
       <atom:link href="https://abheesht17.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://abheesht17.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://abheesht17.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
+      <link>https://abheesht17.github.io/publication/promptsource/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/promptsource/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multitask Prompted Training Enables Zero-Shot Task Generalization</title>
@@ -41,6 +49,14 @@
       <link>https://abheesht17.github.io/publication/toxic_span/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://abheesht17.github.io/publication/toxic_span/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxic Spans Detection Leveraging BERT-based Token Classification and Span Prediction Techniques</title>
+      <link>https://abheesht17.github.io/publication/superpixels/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://abheesht17.github.io/publication/superpixels/</guid>
       <description></description>
     </item>
     
