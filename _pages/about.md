@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ML Research Scientist, Amazon. Lead Contributor, KerasNLP.
 
 profile:
   align: right
   image: me.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Bangalore, India ⇔ Pune, India</p>
+    <p>Bangalore ⇔ Pune</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
