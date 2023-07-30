@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abheesht17
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - keras-team/keras-nlp
+  - abheesht17/super-pixels
+  - abheesht17/whisper-keras
+  - rajaswa/DRIFT
+  - dalgu90/icd-coding-benchmark
+  - keras-team/keras-core
+  - gchhablani/toxic-spans-detection
