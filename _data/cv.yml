@@ -64,15 +64,6 @@
       institution: IIT Madras
       year: 2020-2020
 
-  - keras-team/keras-nlp
-  - abheesht17/super-pixels
-  - abheesht17/whisper-keras
-  - rajaswa/DRIFT
-  - dalgu90/icd-coding-benchmark
-  - keras-team/keras-core
-  - gchhablani/toxic-spans-detection
-  - gchhablani/ReCAM
-
 - title: Open Source Projects
   type: time_table
   contents:
