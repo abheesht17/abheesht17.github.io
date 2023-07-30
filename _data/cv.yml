@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Abheesht Sharma
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. Mathematics
+      institution: BITS Pilani, KK Birla Goa Campus
+      year: 2017-2022
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.E. Computer Science
+      institution: BITS Pilani, KK Birla Goa Campus
+      year: 2017-2022
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: ML Research Scientist
+      institution: Amazon Science
+      year: 2022-present
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +39,89 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: Member of Technical Staff - 2
+      institution: Nutanix Inc.
+      year: 2022-2022
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Member of Technical Staff Intern
+      institution: Nutanix Inc.
+      year: 2021-2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Collaborator
+      institution: Carnegie Mellon University
+      year: 2021-2022
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Collaborator
+      institution: LCS2, IIIT Delhi
+      year: 2020-2021
+
+    - title: Research Intern
+      institution: IIT Madras
+      year: 2020-2020
+
+  - keras-team/keras-nlp
+  - abheesht17/super-pixels
+  - abheesht17/whisper-keras
+  - rajaswa/DRIFT
+  - dalgu90/icd-coding-benchmark
+  - keras-team/keras-core
+  - gchhablani/toxic-spans-detection
+  - gchhablani/ReCAM
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/keras-team/keras-nlp">KerasNLP</a>
+      year: 2022-present
+      description: Lead contributor to KerasNLP, Keras' NLP offering.
+    - title: <a href="https://github.com/abheesht17/super-pixels">super-pixels</a>
+      year: 2022-present
+      description:
+        - Code for our submission to ACM-SE '22 (which won the best short paper award).
+        - Combined relational knowledge (using a GNN) with image knowledge (using a CNN) to improve image classification results.
+    - title: <a href="https://github.com/abheesht17/whisper-keras">Whisper [Keras]</a>
+      year: 2022-present
+      description: Keras implementation of Whisper, OpenAI's speech-to-text model.
+    - title: <a href="https://github.com/rajaswa/DRIFT">DRIFT</a>
+      year: 2022-present
+      description: Tool for diachronic analysis of scientific literature.
+    - title: <a href="https://github.com/dalgu90/icd-coding-benchmark">ICD Coding Benchmark</a>
+      year: 2022-present
+      description: Benchmark for the important clinical task of ICD coding.
+    - title: <a href="https://github.com/keras-team/keras-core">Keras Core</a>
+      year: 2022-present
+      description: Contributor to Keras Core, Keras' multi-backend version.
+    - title: <a href="https://github.com/gchhablani/toxic-spans-detection">Toxic Spans Detection</a>
+      year: 2022-present
+      description: Code for our submission to SemEval '21, which proposes new ways to detect toxic spans in sentences.
+    - title: <a href="https://github.com/gchhablani/ReCAM">ReCAM</a>
+      year: 2022-present
+      description: Code for our submission to the ReCAM task at SemEval '21.      
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Best short paper award at ACM SE'22
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Linguistics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Diachronic/temporal analysis of text.
+        - LLMs.
+        - Information Retrieval.
+    - title: Ad Bot Detection
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Singing, Cricket.
