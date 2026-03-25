@@ -17,7 +17,7 @@ keywords: abheesht sharma, machine learning, NLP, keras, google, deep learning, 
 lang: en
 icon: ⚛️
 
-url: https://abheesht17.github.io # change to https://abheesht.com when custom domain is configured
+url: https://abheesht.com
 baseurl:
 last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -191,6 +191,7 @@ exclude:
   - readme_preview/
   - vendor
 keep_files:
+  - CNAME
   - .nojekyll
 
 # Plug-ins
