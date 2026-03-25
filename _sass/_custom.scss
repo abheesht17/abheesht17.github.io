@@ -1,0 +1,14 @@
+@use "variables" as v;
+
+.navbar-brand {
+  font-family: v.$font-family-monospace;
+  letter-spacing: -0.5px;
+}
+
+.post-date,
+.news-date,
+.cv-date {
+  font-family: v.$font-family-monospace;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}

@@ -1,0 +1,58 @@
+cv:
+  name: Abheesht Sharma
+  label: ML Engineer
+  email: sharmabhee@gmail.com
+  location: Bangalore, India
+  image: ""
+  summary: ML Engineer at Google working on the Keras ecosystem. Building KerasHub, KerasRS, and Tunix. Research interests in NLP, recommender systems, and deep learning.
+
+  social_networks:
+    - network: GitHub
+      username: abheesht17
+    - network: LinkedIn
+      username: abheesht-sharma
+    - network: X
+      username: penstrokes75
+
+  sections:
+    Experience:
+      - company: Google
+        position: ML Engineer (Keras/JAX Team)
+        location: Bangalore, India
+        start_date: 2023
+        end_date: present
+        summary: Building and maintaining core libraries in the Keras ecosystem.
+        highlights:
+          - Building and maintaining KerasHub, KerasRS, and Tunix
+          - Contributing to the Keras 3 multi-backend ecosystem
+
+      - company: Amazon Science
+        position: Applied Scientist
+        location: Bangalore, India
+        start_date: 2022
+        end_date: 2023
+        summary: ML techniques for advertisement fraud detection at scale.
+        highlights:
+          - ML techniques for advertisement bot/crawler detection at scale
+          - Published work on explainable network request signatures for robot detection
+
+    Education:
+      - institution: BITS Pilani, Goa Campus
+        area: Computer Science
+        studyType: B.E.
+        start_date: 2017
+        end_date: 2022
+
+    Interests:
+      - name: Natural Language Processing
+        icon: fa-solid fa-tag
+        keywords: "NLP, Language Models, Text Classification, Information Extraction"
+      - name: Recommender Systems
+        icon: fa-solid fa-tag
+        keywords: "Collaborative Filtering, Content-Based Filtering, Deep Learning for Recommendations"
+      - name: Deep Learning
+        icon: fa-solid fa-tag
+        keywords: "Neural Networks, Transfer Learning, Multi-task Learning"
+      - name: Open-Source ML Tooling
+        icon: fa-solid fa-tag
+        keywords: "Keras, JAX, TensorFlow, PyTorch"

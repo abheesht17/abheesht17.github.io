@@ -1,0 +1,12 @@
+github_users:
+  - abheesht17
+
+repo_description_lines_max: 2
+
+github_repos:
+  - keras-team/keras-hub
+  - keras-team/keras-rs
+  - google/tunix
+  - rajaswa/DRIFT
+  - abheesht17/super-pixels
+  - dalgu90/icd-coding-benchmark

@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Abheesht Sharma",
+    "label": "ML Engineer",
+    "image": "",
+    "email": "sharmabhee@gmail.com",
+    "summary": "ML Engineer at Google working on the Keras ecosystem. Building KerasHub, KerasRS, and Tunix.",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "abheesht17",
+        "url": "https://github.com/abheesht17"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "abheesht-sharma",
+        "url": "https://www.linkedin.com/in/abheesht-sharma"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Google",
+      "position": "ML Engineer (Keras/JAX Team)",
+      "location": "Bangalore, India",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "Building and maintaining core libraries in the Keras ecosystem.",
+      "highlights": [
+        "Building and maintaining KerasHub, KerasRS, and Tunix",
+        "Contributing to the Keras 3 multi-backend ecosystem"
+      ]
+    },
+    {
+      "name": "Amazon Science",
+      "position": "Applied Scientist",
+      "location": "Bangalore, India",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "ML techniques for advertisement fraud detection at scale.",
+      "highlights": [
+        "ML techniques for advertisement bot/crawler detection at scale",
+        "Published work on explainable network request signatures for robot detection"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "BITS Pilani, Goa Campus",
+      "area": "Computer Science",
+      "studyType": "B.E.",
+      "startDate": "2017-01-01",
+      "endDate": "2022-01-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Natural Language Processing"
+    },
+    {
+      "name": "Recommender Systems"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "Open-Source ML Tooling"
+    }
+  ]
+}
