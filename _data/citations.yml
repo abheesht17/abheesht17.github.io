@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-03-30'
 papers:
   gSLkLTMAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: 'LRG at TREC 2020: Document Ranking with XLNet-Based Models'
     year: '2021'
   gSLkLTMAAAAJ:IjCSPb-OGe4C:
-    citations: 444
+    citations: 445
     title: 'PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts'
     year: '2022'
   gSLkLTMAAAAJ:LkGwnXOMwfcC:
@@ -14,11 +14,11 @@ papers:
     title: 'KerasCV and KerasNLP: Vision and Language Power-Ups'
     year: '2024'
   gSLkLTMAAAAJ:Se3iqnhoufwC:
-    citations: 1730
+    citations: 1740
     title: Gemma 3 Technical Report
     year: '2025'
   gSLkLTMAAAAJ:UeHWp8X0CEIC:
-    citations: 2472
+    citations: 2477
     title: Multitask Prompted Training Enables Zero-Shot Task Generalization
     year: '2021'
   gSLkLTMAAAAJ:W7OEmFMy1HYC:
@@ -26,7 +26,7 @@ papers:
     title: 'AnEMIC: A Framework for Benchmarking ICD Coding Models'
     year: '2022'
   gSLkLTMAAAAJ:Y0pCki6q_DkC:
-    citations: 2405
+    citations: 2406
     title: 'BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
     year: '2022'
   gSLkLTMAAAAJ:d1gkVwhDpl0C:
