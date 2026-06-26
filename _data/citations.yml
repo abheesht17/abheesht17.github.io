@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-26'
 papers:
   gSLkLTMAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -14,11 +14,11 @@ papers:
     title: 'KerasCV and KerasNLP: Vision and Language Power-Ups'
     year: '2024'
   gSLkLTMAAAAJ:Se3iqnhoufwC:
-    citations: 2419
+    citations: 2436
     title: Gemma 3 Technical Report
     year: '2025'
   gSLkLTMAAAAJ:UeHWp8X0CEIC:
-    citations: 2576
+    citations: 2586
     title: Multitask Prompted Training Enables Zero-Shot Task Generalization
     year: '2021'
   gSLkLTMAAAAJ:W7OEmFMy1HYC:
@@ -26,7 +26,7 @@ papers:
     title: 'AnEMIC: A Framework for Benchmarking ICD Coding Models'
     year: '2022'
   gSLkLTMAAAAJ:Y0pCki6q_DkC:
-    citations: 2499
+    citations: 2506
     title: 'BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
     year: '2022'
   gSLkLTMAAAAJ:d1gkVwhDpl0C:
