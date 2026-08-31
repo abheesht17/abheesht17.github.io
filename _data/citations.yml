@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-31'
 papers:
   gSLkLTMAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: 'LRG at TREC 2020: Document Ranking with XLNet-Based Models'
     year: '2021'
   gSLkLTMAAAAJ:IjCSPb-OGe4C:
-    citations: 479
+    citations: 480
     title: 'PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts'
     year: '2022'
   gSLkLTMAAAAJ:LkGwnXOMwfcC:
@@ -14,11 +14,11 @@ papers:
     title: 'KerasCV and KerasNLP: Vision and Language Power-Ups'
     year: '2024'
   gSLkLTMAAAAJ:Se3iqnhoufwC:
-    citations: 2814
+    citations: 2875
     title: Gemma 3 Technical Report
     year: '2025'
   gSLkLTMAAAAJ:UeHWp8X0CEIC:
-    citations: 2700
+    citations: 2706
     title: Multitask Prompted Training Enables Zero-Shot Task Generalization
     year: '2021'
   gSLkLTMAAAAJ:UebtZRa9Y70C:
@@ -26,11 +26,11 @@ papers:
     title: 'EmbeddingGemma: Powerful and lightweight text representations'
     year: '2025'
   gSLkLTMAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 9
     title: 'AnEMIC: A Framework for Benchmarking ICD Coding Models'
     year: '2022'
   gSLkLTMAAAAJ:Y0pCki6q_DkC:
-    citations: 2566
+    citations: 2572
     title: 'BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
     year: '2022'
   gSLkLTMAAAAJ:d1gkVwhDpl0C:
@@ -50,7 +50,7 @@ papers:
     title: 'KerasCV and KerasNLP: Vision and Language Power-Ups'
     year: '2024'
   gSLkLTMAAAAJ:u-x6o8ySG0sC:
-    citations: 25
+    citations: 26
     title: 'NLRG at SemEval-2021 Task 5: Toxic Spans Detection Leveraging BERT-based Token Classification and Span Prediction Techniques'
     year: '2021'
   gSLkLTMAAAAJ:u5HHmVD_uO8C:
